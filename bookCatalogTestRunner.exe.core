@@ -1,0 +1,23 @@
+[main] bookCatalogTestRunner 1000 (0) exception: trapped!
+[main] bookCatalogTestRunner 1000 (0) exception: code 0xC0000005 at 0x61030479
+[main] bookCatalogTestRunner 1000 (0) exception: ax 0x6C6F7665 bx 0xA031F98 cx 0x3 dx 0x0
+[main] bookCatalogTestRunner 1000 (0) exception: si 0x3 di 0x400 bp 0x245F9C0 sp 0x245F994
+[main] bookCatalogTestRunner 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] bookCatalogTestRunner 1000 (0) stack: Stack trace:
+[main] bookCatalogTestRunner 1000 (0) stack: frame 0: sp = 0x245F56C, pc = 0x6100A2C3
+[main] bookCatalogTestRunner 1000 (0) stack: frame 1: sp = 0x245F5A8, pc = 0x772865F9
+[main] bookCatalogTestRunner 1000 (1) stack: frame 2: sp = 0x245F5CC, pc = 0x772865CB
+[main] bookCatalogTestRunner 1000 (0) stack: frame 3: sp = 0x245F67C, pc = 0x77286457
+[main] bookCatalogTestRunner 1000 (0) stack: frame 4: sp = 0x245F9C0, pc = 0x6105EEBE
+[main] bookCatalogTestRunner 1000 (0) stack: frame 5: sp = 0x245F9D4, pc = 0x6105D601
+[main] bookCatalogTestRunner 1000 (0) stack: frame 6: sp = 0x245F9F0, pc = 0x6105B2E8
+[main] bookCatalogTestRunner 1000 (0) stack: frame 7: sp = 0x245FA08, pc = 0x6105E2D1
+[main] bookCatalogTestRunner 1000 (0) stack: frame 8: sp = 0x245FCC0, pc = 0x61052B20
+[main] bookCatalogTestRunner 1000 (0) stack: frame 9: sp = 0x245FCD4, pc = 0x404B52
+[main] bookCatalogTestRunner 1000 (0) stack: frame 10: sp = 0x245FD7C, pc = 0x4012C7
+[main] bookCatalogTestRunner 1000 (0) stack: frame 11: sp = 0x245FDA4, pc = 0x401177
+[main] bookCatalogTestRunner 1000 (0) stack: frame 12: sp = 0x245FDAC, pc = 0x61004402
+[main] bookCatalogTestRunner 1000 (0) stack: frame 13: sp = 0x245FF50, pc = 0x61004420
+[main] bookCatalogTestRunner 1000 (0) stack: frame 14: sp = 0x245FF5C, pc = 0x40776E
+[main] bookCatalogTestRunner 1000 (0) stack: frame 15: sp = 0x245FF6C, pc = 0x40103A
+[main] bookCatalogTestRunner 1000 (0) stack: End of stack trace (more stack frames may be present)
