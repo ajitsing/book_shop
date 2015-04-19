@@ -1,8 +1,6 @@
 # book_shop
-A basic project to manage a book inventory
-
-Its a command line tool to manage a bookshop
-The available books are present in BooksInventory.txt
+Its a command line tool to manage a bookshop,
+ the available books are present in BooksInventory.txt
 
 
 ######bookshop search "Paulo"
